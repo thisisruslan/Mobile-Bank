@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/myDark1"
+    tools:context=".presentation.ui.pages.ProfilePage">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/avatar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@color/myGray"
+        app:layout_constraintBottom_toTopOf="@id/profile_info"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/profile_info"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_edit_profile"
+        app:layout_constraintTop_toBottomOf="@id/avatar">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.05" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.45" />
+
+        <TextView
+            android:id="@+id/tv_first_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First name"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@id/tv_second_name"
+            app:layout_constraintStart_toStartOf="@id/guideline1"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="spread" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/first_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:background="@null"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/tv_first_name"
+            app:layout_constraintStart_toStartOf="@id/guideline2"
+            app:layout_constraintTop_toTopOf="@id/tv_first_name"
+            tools:text="Robert" />
+
+        <TextView
+            android:id="@+id/tv_second_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Second name"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@id/tv_phone_number"
+            app:layout_constraintStart_toStartOf="@id/guideline1"
+            app:layout_constraintTop_toBottomOf="@id/tv_first_name" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/second_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:background="@null"
+            app:layout_constraintBottom_toBottomOf="@id/tv_second_name"
+            app:layout_constraintStart_toStartOf="@id/guideline2"
+            app:layout_constraintTop_toTopOf="@id/tv_second_name"
+            tools:text="Alex" />
+
+        <TextView
+            android:id="@+id/tv_phone_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phone number"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@id/tv_password"
+            app:layout_constraintStart_toStartOf="@id/guideline1"
+            app:layout_constraintTop_toBottomOf="@id/tv_second_name" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/phone_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:enabled="false"
+            android:background="@null"
+            app:layout_constraintBottom_toBottomOf="@id/tv_phone_number"
+            app:layout_constraintStart_toStartOf="@id/guideline2"
+            app:layout_constraintTop_toTopOf="@id/tv_phone_number"
+            tools:text="+998917705677" />
+
+
+        <TextView
+            android:id="@+id/tv_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="@id/guideline1"
+            app:layout_constraintTop_toBottomOf="@id/tv_phone_number" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:background="@null"
+            app:layout_constraintBottom_toBottomOf="@id/tv_password"
+            app:layout_constraintStart_toStartOf="@id/guideline2"
+            app:layout_constraintTop_toTopOf="@id/tv_password"
+            tools:text="1234567" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/btn_edit_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@drawable/bg_btn_edit"
+        android:padding="16dp"
+        android:src="@drawable/ic_edit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/btn_apply_changes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@drawable/bg_btn_edit"
+        android:padding="16dp"
+        android:src="@drawable/ic_checked"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+
+    <androidx.core.widget.ContentLoadingProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

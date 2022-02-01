@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable-v24/bg_btb_edit.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable-v24/bottom_navigation_selector.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable-v24/dialog_bg.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable-v24/ic_backspace.xml" value="0.15625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/bg_bottom_nav.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/bg_btn_edit.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/bg_button1.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/bg_button2.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/dialog_bg.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_about.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_back.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_backspace.xml" value="0.15625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_baseline_add_card_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_checked.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_delete_card.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_edit.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_edit_card.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_exit.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_fingerprint.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_security.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_transfer.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/ic_transfers.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/drawable/visible.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/dialog_transfer_info.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/header_layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/item_add_card.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/item_card.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/item_history.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/item_paging_loading.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/main_nav.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/myKeyboard.xml" value="0.14" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/my_keyboard.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/page_history.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/page_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/page_profile.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/page_transfer.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_about.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_add_card.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_edit_card.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_edit_remove_card.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_login.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_pincode.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_register.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_register2.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_register_password.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_register_phone.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_register_verify.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_security.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_setpassword.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_setpincode.xml" value="0.14" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_splash.xml" value="0.12" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_verify.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_verify_add_card.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/layout/screen_verifyaddcard.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/menu/menu_bottom.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/menu/nav_drawer_menu.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1234375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NewMobileBanking/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
